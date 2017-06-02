@@ -1,7 +1,3 @@
 # poirot
-Helpful scripts related to the data project with DigitalGlobe and metis.
-
-It's best if you read them in this order:
-1. Get Started With SpaceNet Images.ipynb
-2. Download Ground-Truth Data from OSM.ipynb
+This repo contains a series of notebooks to help Metis students complete the DG/Metis project.  The goal of this project is to train a segmentation neural net to recognize different kinds of terrain and land-use.
 
